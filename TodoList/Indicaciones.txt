@@ -1,0 +1,12 @@
+*Levantar Servidor
+abrir una terminal nueva, escribir
+cd server 
+npm run dev
+
+
+*Levantar React
+abrir una terminal nueva, escribir
+cd client 
+npm run dev
+
+
